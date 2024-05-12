@@ -4,7 +4,7 @@ Currently intalls `scoop` launches Chris Titus's [winutil](https://github.com/Ch
 
 #### What it does:
 - Installs [scoop](https://scoop.sh/#/) and launches Chris Titus's [winutil](https://github.com/ChrisTitusTech/winutil).
-- Install GlazeWM for a sane window management
+- Installs GlazeWM for a sane window management
 - Installs Msys2, then the MingW toolchain
     - I use this for C/C++ Development
 
